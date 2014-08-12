@@ -6,3 +6,5 @@ for testing Git
 
 playing around add one more line
 
+for staged (1)
+
