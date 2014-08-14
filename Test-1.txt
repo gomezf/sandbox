@@ -2,7 +2,7 @@
 
 This is a hello word file
 
-for testing Gi__t
+for testing Gi_t
 
 playing around add one more line
 
