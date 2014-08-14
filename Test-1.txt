@@ -2,6 +2,7 @@
 
 This is a hello word file
 
+for testing Gi_t
 for testing Gitt
 
 playing around add one more line
