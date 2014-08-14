@@ -2,7 +2,7 @@
 
 This is a hello word file
 
-for testing Git
+for testing Gitt
 
 playing around add one more line
 
